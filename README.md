@@ -4,10 +4,10 @@ You can download this python program and run it in the terminal to get info on t
 
 Make sure to have these libraries installed: BeautifulSoup4, Requests, Tabulate
 
-Commands to install libraries:
-pip3 install bs4, 
-pip3 install requests, 
-pip3 install tabulate, 
+Commands to install libraries: <br />
+pip3 install bs4<br />
+pip3 install requests<br />
+pip3 install tabulate
 
 
 To run, type the following command in the terminal: 
