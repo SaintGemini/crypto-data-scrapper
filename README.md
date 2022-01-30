@@ -13,19 +13,16 @@ python cryptoData.py
 * Python 3.x
 * BeautifulSoup4
 * Requests
-* Tabulate
 
 ## Commands to install libraries:
 * pip3 install bs4
 * pip3 install requests
-* pip3 install tabulate
 
 ## How to run project
 * Clone repository onto local machine
 * Change directory to repository
 * run the command _python cryptoData.py_
 
-## Expected output:
-![image](https://user-images.githubusercontent.com/28576229/138726929-1304eab8-4190-4e42-9836-8fd80d805527.png)
->>>>>>> 22ef7f5e31f3d189755b629d5153d9df0fbb69e4
-
+## How to personalize script
+All the data will be stores in the data array which you can use for any personal project wether it's data science or your own scrapping project.
+The loop only grabs the top 50 cryptocurrencies. Change that number to your liking. You are free to do whatever you want with the data after.
